@@ -1,0 +1,19 @@
+PyCharm==2024.1.2           # IDE for Python development
+Python ==3.12.3
+Flask==2.0.2                # Web framework for serving HTTP requests
+pip==24.1                   # Package management tool for Python
+requests==2.26.0            # HTTP library for making requests to external resources
+configparser==7.0.0         # Library for reading configuration files
+pyOpenSSL==21.0.0           # OpenSSL library for SSL support
+pytest==8.2.2               # Testing framework for unit tests
+socket                       # For network communication via sockets
+threading                    # To enable multithreading for handling concurrent connections
+ssl                          # Required for implementing SSL/TLS encryption and authentication
+subprocess                   # Utilized for executing external commands or scripts if necessary
+unittest                     # Essential for writing and executing unit tests for code validation
+server_script.StringSearchServer  # The main server script or class responsible for handling server operations
+rabin_karp_search.rabin_karp_search  # Custom implementation of the Rabin-Karp string search algorithm
+binary_search.binary_search  # Custom implementation of the binary search algorithm
+kmp_search.kmp_search        # Custom implementation of the Knuth-Morris-Pratt search algorithm
+brute_force_search.brute_force_search  # Custom implementation of the brute-force search algorithm
+aho_corasick_search.aho_corasick_search  # Custom implementation of the Aho-Corasick search algorithmhe Knuth-Morris-Pratt (KMP) string search algorithm.
